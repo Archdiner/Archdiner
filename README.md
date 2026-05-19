@@ -1,25 +1,75 @@
-# About Me:
-#### Hi, I'm Asad 👋
-(Fun fact: I used to be ranked top 20 globally in competitive Pokemon)
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="typing cat" />
+  
+  <h1>asad</h1>
+  <h3>agentic ai | full-stack | blockchain</h3>
+  
+  <p>
+    <i>building high-performance agentic frameworks and decentralized systems.</i>
+  </p>
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.arizvi06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aarizvi06@gmail.com) 
+  <p>
+    <a href="https://x.com/carne_asado"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x"/></a>
+    <a href="https://t.me/carne_asado"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
+    <a href="mailto:sar367@cornell.edu"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  </p>
+</div>
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<br/>
 
-### What I'm working on:
-- **Note log** – A music-practice tracker with AI insights and a GitHub-style heatmap.  
-  _FastAPI + Supabase + React/Tailwind • rate-limited AI endpoints, background jobs, CI/CD_
-- **Roomio/vero** (need to finalize name) – Tinder-style roommate matching (Flutter + Supabase + FastAPI).  
-  _Onboarding, swipes, custom matching algorithm, upcoming paywall._
-- **Instagram Reel Responder** – For all the friends I've forgotten to respond to 
+<table align="center" style="width: 100%;">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>work</h3>
+      <ul>
+        <li>currently building zybit (autonomous a/b testing).</li>
+        <li>focusing on agentic frameworks and web3 infrastructure.</li>
+        <li>won a hackathon with commitmint and contributed to akash network.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>life</h3>
+      <ul>
+        <li>play bass guitar in a jazz band.</li>
+        <li>into boxing (3-0 amateur record) </li>
+        <li>ranked top 20 globally in competitive pokémon.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Coolest Project:
-- **GraphRAG Dodd-Frank Analyzer** Built a Graph-based Retrieval Augmented Generation (GraphRAG) system to deeply understand and query the 800+ page Dodd-Frank Act.
-_Constructed entity/relationship graphs with Neo4j • Connected sub-clauses across sections • Enabled high-accuracy, cross-referenced answers • Delivered concise but detailed AI-generated summaries_
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Archdiner&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,rust,solidity,py,ocaml,react,nextjs,postgres,supabase,docker,fastapi" alt="tech stack" />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## projects
+
+### [commitmint](https://github.com/Archdiner/commitmint) [hackathon winner]
+decentralized platform leveraging smart contracts for immutable commitments.
+*stack: solidity, rust, web3*
+
+### [zybit](https://github.com/Archdiner/zybit)
+enterprise platform for autonomous a/b testing, site optimization, and design engineering.
+*stack: typescript, next.js, react*
+
+### [agentredteam](https://github.com/Archdiner/AgentRedTeam)
+red-teaming framework designed for evaluating ai coding agents across the owasp agentic top 10.
+*stack: python, ai agents*
+
+### [textbounty](https://github.com/Archdiner/textbounty)
+escrow bounty platform integrating wallet-to-telegram workflows and solana on-chain settlement.
+*stack: typescript, solana, postgresql*
+
+### [akash network contributions](https://github.com/Archdiner/awesome-akash)
+deployment templates and integrity validators for the akash decentralized compute network.
+*stack: blockchain, distributed systems*
+
+### [graphrag dodd-frank analyzer](https://github.com/Archdiner/GraphRAG-Dodd-Frank)
+rag system querying the 800+ page dodd-frank act via entity/relationship knowledge graphs.
+*stack: python, neo4j*
