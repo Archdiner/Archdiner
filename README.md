@@ -1,46 +1,80 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="typing cat" />
+  
+  <h1>asad</h1>
+  <h3>agentic ai | full-stack | founder</h3>
+  
+  <p>
+    <i>founding zybit. building agentic systems that stay honest about what they can verify.</i>
+  </p>
 
-# Asad Rizvi
-
-**AI systems and agentic infrastructure**
-
-*I build software that holds up when the details actually matter.*
-
-[![portfolio](https://img.shields.io/badge/carneasado.com-F26722?style=for-the-badge&logo=vercel&logoColor=white)](https://carneasado.com)
-[![x](https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/carne_asado)
-[![telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/carne_asado)
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sar367@cornell.edu)
-
+  <p>
+    <a href="https://carneasado.com"><img src="https://img.shields.io/badge/portfolio-F26722?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
+    <a href="https://x.com/carne_asado"><img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x"/></a>
+    <a href="https://t.me/carne_asado"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
+    <a href="mailto:sar367@cornell.edu"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  </p>
 </div>
 
----
+<br/>
 
-CS student at Cornell, from Bahrain. Right now I'm founding **Zybit**. Alongside that I'm VP of Generative AI at Cornell, a Student Ambassador for Akash Network, and on the accelerator subteam at Cornell Blockchain.
+<table align="center" style="width: 100%;">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>work</h3>
+      <ul>
+        <li>founding zybit: voice ai charting for dentists, live in 3 clinics.</li>
+        <li>vp @ generative ai at cornell; ambassador @ akash network.</li>
+        <li>3rd place at the global solana hackathon with commitmint.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>life</h3>
+      <ul>
+        <li>play bass guitar in a jazz band.</li>
+        <li>into boxing (3-0 amateur record).</li>
+        <li>ranked top 20 globally in competitive pokémon.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Building now
+<br/>
 
-### [Zybit](https://getzybit.com) &nbsp;·&nbsp; live in 3 dental practices
-Voice AI that charts for dentists. It listens while you work and writes your findings into Open Dental: on the right tooth, in your own codes, exactly as you said them. No retyping, no miscoding. We're onboarding Open Dental practices by hand.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,solidity,py,ocaml,react,nextjs,postgres,supabase,docker,fastapi" alt="tech stack" />
+  </a>
+</div>
 
-`Next.js` `TypeScript` `Realtime voice` `Open Dental`
+<br/>
 
-## Other projects
+## projects
 
-| Project | What it is |
-| --- | --- |
-| **[RWA Analyzer](https://github.com/Archdiner/rwa-analyzer)** | An agent-first backing-verification primitive for tokenized real-world assets (MCP, CLI, HTTP). Built to refuse to fake a green when it can't actually verify the backing. `TypeScript` `MCP` |
-| **[Kite Credit](https://github.com/Archdiner/kite-credit)** · [live](https://kitecredit.xyz) | Cross-border credit scoring that fuses on-chain Solana activity and off-chain identity with ZK-verified bank statements (Reclaim), plus plain-English LLM explanations. `Next.js` `Solana` `ZK` |
-| **[ComputeSwarm](https://github.com/Archdiner/compute-swarm)** | Decentralized GPU compute marketplace. Trustless x402/USDC micropayments on Base, Docker-sandboxed PyTorch and HuggingFace jobs, built to undercut cloud by using idle capacity. `React` `FastAPI` `x402` |
-| **[CommitMint](https://github.com/Archdiner/commitment-parties)** 🏆 | Solana commitment-pool platform for accountability and habit-building, on Anchor smart contracts. 3rd place at the Global Solana Hackathon. `Solana` `Anchor` `Next.js` |
-| **[GraphRAG Dodd-Frank](https://github.com/Archdiner/GraphRAG-Dodd-Frank)** | Knowledge-graph RAG over the 800-page Dodd-Frank Act (Microsoft GraphRAG plus Neo4j) to answer regulatory questions a flat vector store misses. `Python` `GraphRAG` `Neo4j` |
-| **[TextBounty](https://github.com/Archdiner/textbounty)** | Escrow bounty platform with wallet-to-Telegram workflows and on-chain Solana settlement. `TypeScript` `Solana` |
+### [zybit](https://getzybit.com) [live]
+voice ai that charts for dentists. you say it, it's in the chart: right tooth, your codes. live in 3 practices.
+*stack: next.js, typescript, realtime voice*
 
-## Stack
+### [rwa analyzer](https://github.com/Archdiner/rwa-analyzer)
+agent-first backing-verification for tokenized real-world assets (mcp/cli/http). refuses to fake a green.
+*stack: typescript, mcp*
 
-[![My stack](https://skillicons.dev/icons?i=ts,py,ocaml,react,nextjs,fastapi,postgres,supabase,docker)](https://skillicons.dev)
+### [kite credit](https://github.com/Archdiner/kite-credit) [live]
+cross-border credit score fusing on-chain and off-chain identity with zk-verified bank statements.
+*stack: next.js, solana, reclaim zk*
 
-Also comfortable with Solana/Anchor, LangChain, MCP, and Neo4j.
+### [commitmint](https://github.com/Archdiner/commitment-parties) [hackathon winner]
+solana commitment pools for accountability, on anchor smart contracts. 3rd @ global solana hackathon.
+*stack: solana, anchor, next.js*
 
-## Off the clock
+### [computeswarm](https://github.com/Archdiner/compute-swarm)
+decentralized gpu marketplace with trustless x402/usdc micropayments on base.
+*stack: react, fastapi, x402*
 
-Bass guitar in a jazz band. Amateur boxing, 3-0. Ranked top 20 globally in competitive Pokémon.
+### [graphrag dodd-frank](https://github.com/Archdiner/GraphRAG-Dodd-Frank)
+knowledge-graph rag over the 800-page dodd-frank act. answers what a flat vector store misses.
+*stack: python, graphrag, neo4j*
+
+### [texas hold'em](https://github.com/archdiner/texas-holdem-ocaml)
+networked multiplayer poker in ocaml. tcp server, ascii clients, hand evaluator. team project.
+*stack: ocaml, lwt*
