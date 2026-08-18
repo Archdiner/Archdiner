@@ -51,13 +51,13 @@
 
 ## projects
 
+### [reckon](https://github.com/Archdiner/reckon-review) · [live](https://reckonreview.dev)
+mcp server + github app that holds a merge until the pr author can explain their own change. no explanation, no ship.
+*stack: typescript, node, probot, supabase, mcp*
+
 ### [zybit](https://getzybit.com) [live]
 voice ai that charts for dentists. you say it, it's in the chart: right tooth, your codes. live in 3 practices.
 *stack: next.js, typescript, realtime voice*
-
-### [rwa analyzer](https://github.com/Archdiner/rwa-analyzer) · [live](https://rwa-analyzer.vercel.app/)
-agent-first backing-verification for tokenized real-world assets (mcp/cli/http). refuses to fake a green.
-*stack: typescript, mcp*
 
 ### [kite credit](https://github.com/Archdiner/kite-credit) · [live](https://kitecredit.xyz)
 cross-border credit score fusing on-chain and off-chain identity with zk-verified bank statements.
